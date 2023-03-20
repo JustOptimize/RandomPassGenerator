@@ -1,5 +1,6 @@
 # RandomPassGenerator
-This is a batch password generator...that's it...
+A simple password generator that allows users to generate random passwords with a length of their choice. The passwords are generated using the characters A-Z, a-z and 0-9.
+
 ## Usage
 1. Run the batch script
 2. Enter the desired lenght
